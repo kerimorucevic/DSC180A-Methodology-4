@@ -17,7 +17,7 @@ Answer: The most interesting topic covered, to me, in my domain this quarter has
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-Answer: A potential investigation I'd like to pursue for my Quarter 2 project is 
+Answer: A potential investigation I'd like to pursue for my Quarter 2 project is the robustness of our model in different economic environments, situations, and constraints. I would definitely want to see how different factors in the economy, as well as factors out of the model's control, affect the model itself and its capabilities, accuracy, and reliability.
 
 **What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
