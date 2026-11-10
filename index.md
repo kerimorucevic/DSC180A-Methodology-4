@@ -3,7 +3,7 @@ layout: default
 ---
 **Name:** Kerim Orucevic
 
-**Email:** korucevic@ucsd.edu (mailto:YOUR_UCSD_EMAIL@ucsd.edu)
+**Email:** korucevic@ucsd.edu 
 
 **Section:** D12
 
