@@ -9,7 +9,7 @@ layout: default
 
 **Mentor:** Goutham Valeti
 
-## Quarter 2 Project Brainstorm
+**Quarter 2 Project Brainstorm**
 
 **What is the most interesting topic covered in your domain this quarter?**
 
